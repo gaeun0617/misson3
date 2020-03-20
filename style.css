@@ -1,0 +1,8 @@
+#top{
+    background-color: white;
+    border: 1px dotted red;
+    height: 50px;
+}
+.img{
+    max-width: 400px;
+}
