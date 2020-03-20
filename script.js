@@ -7,7 +7,7 @@ window.addEventListener("scroll", function(){
         btn.style.bottom = '0px';
         btn.addEventListener('click', btnClick);
     }else{
-        btn.removeAtstribute('style');
+        btn.removeAttribute('style');
     }
 });
 
